@@ -2,7 +2,7 @@
 
 
 <div style="margin-left: 50px;">
-<a href='https://svgshare.com/s/bpB' ><img src='https://svgshare.com/i/bpB.svg' title='pppp'  width="100%" height="100px"/></a>
+<a href='https://svgshare.com/s/bpB' ><img src='https://svgshare.com/i/bpB.svg' title='pppp'  width="100%" height="300px"/></a>
 
 </div>
 
