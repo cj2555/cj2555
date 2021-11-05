@@ -1,5 +1,5 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://ibb.co/NYhZPq1" height="175px"/></a> -->
-<a href='https://svgshare.com/s/bpB' ><img src='https://svgshare.com/i/bpB.svg' title='pppp'  width="100%" height="auto"/></a>
+<a href='https://svgshare.com/s/bpB' ><img src='https://svgshare.com/i/bpB.svg' title='pppp'  width="50%" height="auto"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahsan</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
