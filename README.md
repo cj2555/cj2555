@@ -2,7 +2,7 @@
 
 
 <div style="margin-left: 50px;">
-<a href='https://svgshare.com/s/bpB' ><img src='https://images.unsplash.com/photo-1514168757508-07ffe9ae125b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80' title='pppp'  width="100%" height="300px"/></a>
+<a href='https://svgshare.com/s/bpB' ><img src='https://images.unsplash.com/photo-1514168757508-07ffe9ae125b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80' title='pppp'  width="50%" height="300px"/></a>
 
 </div>
 
