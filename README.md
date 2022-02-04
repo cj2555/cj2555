@@ -1,7 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://ibb.co/NYhZPq1" height="175px"/></a> -->
 
 
-<div  >
+<div style="display: flex;">
 <a href='https://svgshare.com/s/bpB'  ><img src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/141108398/original/0a0e26c1add30c7d02e86738012a7af9eac7ab14/develop-support-or-debug-cobol-batch-or-cics-programs.jpg' title='pppp'  width="50%" height="300px" /></a>
 <a href='https://svgshare.com/s/bpB'  ><img src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/141108398/original/0a0e26c1add30c7d02e86738012a7af9eac7ab14/develop-support-or-debug-cobol-batch-or-cics-programs.jpg' title='pppp'  width="50%" height="300px" /></a>
 </div>
