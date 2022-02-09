@@ -9,7 +9,7 @@
 <h3 align="center">Backend Software Engineer</h3>
 
 
-## 🙋‍♂️ About Me
+## About Me
 
 - 🔭 I’m currently working on **Backend application of Photo editing and sharing app**
 
