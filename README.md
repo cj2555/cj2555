@@ -22,7 +22,7 @@
 ## Languages:
  
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img src="https://img.icons8.com/ios-filled/16/000000/php-logo.png"/>
+<img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>   
  
