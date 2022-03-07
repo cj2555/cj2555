@@ -19,13 +19,17 @@
 
 
 
-## Languages and Tools:
+## Languages:
  
-
-  <img src="https://img.icons8.com/nolan/64/react-native.png"/>
-    
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img src="https://img.icons8.com/ios-filled/16/000000/php-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>   
  
- 
+ ## Frameworks/Run Env:
+ <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+ <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
+<img src="https://img.icons8.com/officel/16/000000/react.png"/>
  
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
