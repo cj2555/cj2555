@@ -11,13 +11,13 @@
 
 ## About Me
 
-- 🔭 I’m currently working on **Backend application of Photo editing and sharing app**
+- 🔭 I’m currently working on **ERP system**
 
-- 🌱 I’m currently learning **Networking and Database optimization**
+- 🌱 Learning **Networking and Database optimization**
 
 - 📫 How to reach me **abir4584@gmail.com**
 
-- ⚡ Fun fact **I like to read technology related books and write code for fun on my off time.**
+
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
