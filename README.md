@@ -6,12 +6,12 @@
  
 
 <h1 align="center">Hi, I'm Ahsan</h1>
-<h3 align="center">Backend Software Engineer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 
 ## About Me
 
-- 🔭 I’m currently working on **ERP system**
+- 🔭 I’m currently working on **Ecommerce App**
 
 - 🌱 Learning **Networking and Database optimization**
 
@@ -22,9 +22,11 @@
 ## Languages:
  
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
+
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/fluency/48/null/python.png"/>
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>   
+ <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
  
  ## technology:
  
