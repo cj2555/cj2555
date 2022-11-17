@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Ecommerce App**
 
-- 🌱 Learning **Networking and Database optimization**
+- 🌱 Learning **Networking In depth**
 
 - 📫 How to reach me **abir4584@gmail.com**
 
