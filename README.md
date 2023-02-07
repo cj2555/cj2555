@@ -11,9 +11,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working on **Ecommerce App**
+- 🔭 I’m currently working on **SAAS Application**
 
-- 🌱 Learning **Networking In depth**
+- 🌱 Learning **System Design In depth**
 
 - 📫 How to reach me **abir4584@gmail.com**
 
